@@ -1,0 +1,4 @@
+plugins:
+  envato_customizations_enabled:
+    default: true
+    client: true
